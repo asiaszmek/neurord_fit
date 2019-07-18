@@ -5,7 +5,6 @@
     <NanoMolarity specieID="CKCaMCa4"  value="55"/>
     <NanoMolarity specieID="CKp"  value="20"/>
     <NanoMolarity specieID="CKpCaMCa4"  value="180"/>
-    <NanoMolarity specieID="PP2BCaMCa4" value="1"/>
     <NanoMolarity specieID="PP1" value="1150"/>
   </ConcentrationSet>
   <!-- number densities are in particles per cubic micron. You

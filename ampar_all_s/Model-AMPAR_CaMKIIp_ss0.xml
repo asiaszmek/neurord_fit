@@ -3,7 +3,7 @@
     <!-- this file defines a single run of the calculation, using morphology and 
 	 reaction data brought in from other files --> 
 
-          <xi:include href="Rxn_AMPAR_PKA_ss.xml" />
+          <xi:include href="Rxn_CKCaM_sites.xml" />
           <xi:include href="Morph1.5um.xml" />
 	  <xi:include href="IC_AMPAR_CaMKII_pss.xml" />       
 
