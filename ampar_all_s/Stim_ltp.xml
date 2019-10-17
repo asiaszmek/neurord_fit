@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StimulationSet>
+
+    <!-- the injectionSite must match a regionLabel deefined in the morphology -->
+
+
+<InjectionStim specieID="CKCaMCa4" injectionSite="dendrite:submembrane">
+        <onset>0</onset>
+        <duration>100</duration>
+        <rate>24</rate>
+        <end>100</end>
+
+</InjectionStim>
+
+</StimulationSet>
