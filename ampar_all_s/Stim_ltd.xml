@@ -4,7 +4,7 @@
     <!-- the injectionSite must match a regionLabel deefined in the morphology -->
 
 
-<InjectionStim specieID="CKCaMCa4" injectionSite="dendrite:submembrane">
+<InjectionStim specieID="CaMCa4" injectionSite="dendrite:submembrane">
         <onset>60000</onset>
         <duration>100</duration>
         <rate>3.3</rate>
