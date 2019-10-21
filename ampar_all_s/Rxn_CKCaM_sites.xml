@@ -32,7 +32,6 @@
   <Specie name="I1" id="I1" kdiff="9.49" kdiffunit="mu2/s" />
   <Specie name="I1PKAc" id="I1PKAc" kdiff="10.6" kdiffunit="mu2/s" />
   <Specie name="Ip35" id="Ip35" kdiff="7.02" kdiffunit="mu2/s" />
-
   <Specie name="PP1" id="PP1" kdiff="0" kdiffunit="mu2/s" />
   <Specie name="Ip35PP1" id="Ip35PP1" kdiff="0" kdiffunit="mu2/s" />
   <Specie name="Ip35PP2BCaMCa4" id="Ip35PP2BCaMCa4" kdiff="0"
@@ -45,6 +44,7 @@
 	  kdiffunit="mu2/s" />
   <Specie name="PP2BCaMCa4" id="PP2BCaMCa4" kdiff="0"
 	  kdiffunit="mu2/s" />
+
   
   <Specie name="GluR1" id="GluR1" kdiff="0" kdiffunit="mu2/s" />
   <Specie name="GluR1_S831" id="GluR1_S831" kdiff="0"
@@ -246,8 +246,6 @@
         -->
   <Q10>0.2</Q10>
 </Reaction>
-
-
 <!--These are fine.-->
 
  <!--1) CaMCa4 + CK <-> CKCaMCa4  -->
@@ -369,7 +367,7 @@
   <Reactant specieID="GluR1" />
   <Reactant specieID="CKpCaMCa4" />
   <Product specieID="GluR1_CKpCaM" />
-  <forwardRate>32.78e-9</forwardRate>
+  <forwardRate>65e-9</forwardRate>
   <reverseRate>0.5e-4</reverseRate>
   <Q10>0.2</Q10>
 </Reaction>
@@ -386,7 +384,7 @@
   <Reactant specieID="GluR1" />
   <Reactant specieID="CKp" />
   <Product specieID="GluR1_CKp" />
-  <forwardRate>32.224e-9</forwardRate>
+  <forwardRate>65e-9</forwardRate>
   <reverseRate>0.5e-4</reverseRate>
   <Q10>0.2</Q10>
 </Reaction>
@@ -460,7 +458,7 @@
   <Reactant specieID="GluR1" />
   <Reactant specieID="CKpCaMCa4" />
   <Product specieID="GluR1_CKpCaM2" />
-  <forwardRate>320.78e-9</forwardRate>
+  <forwardRate>32.78e-9</forwardRate>
   <reverseRate>2e-4</reverseRate>
   <Q10>0.2</Q10>
 </Reaction>
@@ -477,7 +475,7 @@
   <Reactant specieID="GluR1" />
   <Reactant specieID="CKp" />
   <Product specieID="GluR1_CKp2" />
-  <forwardRate>320.224e-9</forwardRate>
+  <forwardRate>16.224e-9</forwardRate>
   <reverseRate>2e-4</reverseRate>
   <Q10>0.2</Q10>
 </Reaction>
