@@ -18,8 +18,14 @@
     <NanoMolarity specieID="CKpCaMCa4" value="160"/>
     <NanoMolarity specieID="CKp" value="10"/>
     <NanoMolarity specieID="CKpPP1" value="0"/>
-    <NanoMolarity specieID="PP1" value="1080"/>
-    
+    <NanoMolarity specieID="PP2BCaM" value="2473"/>
+    <NanoMolarity specieID="PP2BCaMCa2" value="429"/>
+    <NanoMolarity specieID="PP2BCaMCa4" value="3"/>
+    <NanoMolarity specieID="PP2B" value="0"/>
+    <NanoMolarity specieID="PKAc" value="10"/>
+    <NanoMolarity specieID="Ip35" value="9"/>
+    <NanoMolarity specieID="PP1" value="1322"/>
+    <NanoMolarity specieID="Ip35PP1" value="243"/>
   </ConcentrationSet>
  <SurfaceDensitySet region="dendrite">
     <PicoSD specieID="Leak" value="100"/>
@@ -28,7 +34,7 @@
     <PicoSD specieID="pmcaCa" value="29"/>
     <PicoSD specieID="ncx" value="2840"/>
     <PicoSD specieID="ncxCa" value="160"/>
-    <PicoSD specieID="GluR1" value="160"/>
+    <PicoSD specieID="GluR1" value="100"/>
  </SurfaceDensitySet>
   
   <!-- number densities are in particles per cubic micron. You
