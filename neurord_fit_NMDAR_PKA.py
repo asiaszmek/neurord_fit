@@ -9,7 +9,7 @@ import os
 
 dirname = 'nmdar_pka/'  #where data and model file are stored.  Can be different than current directory. Multiple datafiles allowed
 #Set of model files that have first part of file name in common.  All included files must be in same directory.
-model_set = 'Model-NMDAR-PKA'
+model_set = 'Model-NMDAR_PKA'
 exp_set = 'pNMDAR_percent' #set of data files corresponding to model files; files may contain several molecules
 mol = ['pNMDAR'] #which molecule(s) to match in optimization
 tmpdir = '/tmp/NMDAR'
